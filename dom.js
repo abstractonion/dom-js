@@ -49,4 +49,3 @@ document.querySelectorAll('.front')[3].innerHTML = allLetters.split(' ').length
 
 //slice method
 document.getElementsByTagName('li')[10].textContent = allLetters.slice(0, allLetters.indexOf("x")+1)
-
